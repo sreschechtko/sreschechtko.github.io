@@ -27,6 +27,12 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 2em;
 }
+h3 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -45,3 +51,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+} 
