@@ -53,6 +53,8 @@ ul.posts li {
 }
 
 .hangingindent {
-  padding-left: 22px ;
-  text-indent: -22px ;
+  font-size: 1em;
+  line-height: 0.9em;
+  padding-left: 35px ;
+  text-indent: -35px ;
 } 
